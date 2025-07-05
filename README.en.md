@@ -1,0 +1,1 @@
+I wrote a 2048 game in C. It's basically a slightly translated version of the code from [github](https://github.com/izabera/bitwise-challenge-2048/tree/develop). I just wrote it for fun QwQ
